@@ -53,8 +53,9 @@ CraftGenie is a Tkinter-based application that allows users to generate stunning
 ## Example 📸
 Here are some screenshots of CraftGenie in action:
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](https://github.com/HitarthMahadevia/CraftGenie/blob/main/Basic_application_page.png)
+![Screenshot 2](https://github.com/HitarthMahadevia/CraftGenie/blob/main/After%20user%20enters%20prompt.png)
+![Screenshot 3](https://github.com/HitarthMahadevia/CraftGenie/blob/main/Final%20result.png)
 
 ## Contributing 🤝
 Contributions are welcome! Please open an issue or submit a pull request.
